@@ -8,5 +8,3 @@ Selva is a software developer from Chennai, India.
 - Twitter: https://twitter.com/slvssb
 - LinkedIn: https://linkedin.com/in/slvssb/
 - Instagram: https://instagram.com/slvssb
-- GitHub: https://github.com/slvssb
-- Website: https://slvssb.vercel.app/
