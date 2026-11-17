@@ -5,5 +5,5 @@
 Selva is a software developer from Coimbatore, India.
 
 ## Links
-- Twitter: https://twitter.com/slvssb
-- LinkedIn: https://linkedin.com/in/slvssb
+- [X (Formerly Twitter)](https://twitter.com/slvssb)
+- [LinkedIn](https://linkedin.com/in/slvssb)
