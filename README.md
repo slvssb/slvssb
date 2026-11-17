@@ -2,7 +2,7 @@
 
 # About
 
-Selva is a software developer from Chennai, India.
+Selva is a software developer from Coimbatore, India.
 
 ## Links
 - Twitter: https://twitter.com/slvssb
